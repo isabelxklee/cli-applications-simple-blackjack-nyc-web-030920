@@ -132,5 +132,6 @@ def runner
     display_card_total(card_total)
     card_total += 1
   end
+  
     end_game(card_total)
 end
